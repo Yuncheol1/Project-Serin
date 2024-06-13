@@ -91,7 +91,7 @@ python main.py
 
 ## 저자
 - **개발자**: [소유진], [하윤철], [김시원], [윤의종]
-- **이메일**: [https://github.com/yujin-zero] , [https://github.com/Yooncheol1], [https://github.com/huro0906],[https://github.com/Dochanii]
+- **이메일**: [https://github.com/yujin-zero] , [https://github.com/YunCheol1], [https://github.com/huro0906],[https://github.com/Dochanii]
 
 레벨 20을 달성하여 교수님 몬스터를 만나보세요!
 
